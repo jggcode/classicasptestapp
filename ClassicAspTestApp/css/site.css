@@ -1,0 +1,16 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+h1{
+	font-size: 48px;
+	text-shadow: 4px 4px 4px #aaa;
+	color:navy
+}
+table{
+	border:1px solid gray;
+	margin:5px;
+}
+.servervars{
+	padding:10px;
+}
